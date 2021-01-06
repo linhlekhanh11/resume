@@ -11,9 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
@@ -23,8 +21,36 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/linhlekhanh11) and ![Image](https://img.jakpost.net/c/2018/12/19/2018_12_19_61190_1545204507._large.jpg)
 ```
+# Markdown 
+## CSE 110
+### Lab 1 Part 3
+
+**Linh K Le*
+
+*CSE 110*
+
+~~This text is italicized~~
+
+**This text is _extremely_important** 
+
+***Mon Tue Wed***
+
+In the word of Bill Gates:
+> We all need people who will give us feedback. That's how we improve.
+
+FANG:
+- Facebook
+- Apple 
+- Netflix
+- Google
+
+
+1. Numbered
+2. List
+
+
+[Github](https://github.com/linhlekhanh11) and ![Image](https://www.rd.com/wp-content/uploads/2020/01/shutterstock_247528582-2-copy-1536x1024.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
