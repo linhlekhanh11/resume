@@ -57,6 +57,7 @@ FANG:
 - Netflix
 - Google
 
+Class:
 1. Course
   - Winter 2021
     - CSE 101
@@ -68,8 +69,12 @@ Favorite color
 3. Blue
 4. Green
 
+Gorcery 
+- [x] apple
+- [ ] lettuce
+- [ ] rice
 
-
+Cute emoji :drooling_face:
 
 [Github](https://github.com/linhlekhanh11) and ![Image](https://www.rd.com/wp-content/uploads/2020/01/shutterstock_247528582-2-copy-1536x1024.jpg)
 
