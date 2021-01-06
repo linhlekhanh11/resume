@@ -11,7 +11,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+# Header 1 
+## Header 2
+### Header 3
 
+__Bold__
+
+*Italic*
+
+~~Strikethrough~~
+
+**Bold and _nested_italic**
+
+***All bold and italic***
 
 - Bulleted
 - List
@@ -26,7 +38,7 @@ Syntax highlighted code block
 ## CSE 110
 ### Lab 1 Part 3
 
-**Linh K Le*
+__Linh Le__
 
 *CSE 110*
 
@@ -45,9 +57,18 @@ FANG:
 - Netflix
 - Google
 
+1. Course
+  - Winter 2021
+    - CSE 101
+    - CSE 110
 
-1. Numbered
-2. List
+Favorite color
+1. Pink
+2. Red
+3. Blue
+4. Green
+
+
 
 
 [Github](https://github.com/linhlekhanh11) and ![Image](https://www.rd.com/wp-content/uploads/2020/01/shutterstock_247528582-2-copy-1536x1024.jpg)
