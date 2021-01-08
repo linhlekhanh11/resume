@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/linhlekhanh11/part3lab1.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Click here to view Markdown](#All-core-Markdown)
+[Click here to view Theme](#Jekyll-Themes)
 
 ### All core Markdown
 
