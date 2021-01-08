@@ -4,16 +4,20 @@ You can use the [editor on GitHub](https://github.com/linhlekhanh11/part3lab1.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[Click here to view Markdown](#All-core-Markdown)
+
+### All core Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
+
 # Header 1 
 ## Header 2
 ### Header 3
+
 
 __Bold__
 
@@ -34,9 +38,11 @@ __Bold__
 **Bold** and _Italic_ and `Code` text
 
 ```
+
 # Markdown 
 ## CSE 110
 ### Lab 1 Part 3
+
 
 __Linh Le__
 
@@ -76,7 +82,9 @@ Gorcery
 
 Cute emoji :drooling_face:
 
-[Github](https://github.com/linhlekhanh11) and ![Image](https://www.rd.com/wp-content/uploads/2020/01/shutterstock_247528582-2-copy-1536x1024.jpg)
+Click here to view my [Github](https://github.com/linhlekhanh11) and
+
+![Image](https://www.rd.com/wp-content/uploads/2020/01/shutterstock_247528582-2-copy-1536x1024.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
