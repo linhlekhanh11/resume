@@ -1,13 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Linh Le's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/linhlekhanh11/part3lab1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](photo.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Social Website 
 
-### Link - Selection Link - Relative Link
-Click here to view my [Github](https://github.com/linhlekhanh11) 
+[View my Github here](https://github.com/linhlekhanh11) 
 
-[Click here to view Theme](#Jekyll-Themes)
+[Project](#Project)
 
 [Relative Link](hello.txt)
 
@@ -85,10 +84,19 @@ Gorcery
 - [ ] lettuce
 - [ ] rice
 
-Cute emoji :drooling_face:
+
+### Project and Experience
 
 
-![Image](https://www.rd.com/wp-content/uploads/2020/01/shutterstock_247528582-2-copy-1536x1024.jpg)
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linhlekhanh11/part3lab1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
